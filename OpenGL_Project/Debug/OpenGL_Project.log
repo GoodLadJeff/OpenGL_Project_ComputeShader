@@ -1,0 +1,6 @@
+﻿  Application.cpp
+D:\Projects\openGl\OpenGL_Project_ComputeShader\OpenGL_Project\src\Application.cpp(191,59): warning C4244: 'argument': conversion from 'double' to 'GLuint', possible loss of data
+D:\Projects\openGl\OpenGL_Project_ComputeShader\OpenGL_Project\src\Application.cpp(191,35): warning C4244: 'argument': conversion from 'double' to 'GLuint', possible loss of data
+  OpenGL_Project.vcxproj -> D:\Projects\openGl\OpenGL_Project_ComputeShader\Debug\OpenGL_Project.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
